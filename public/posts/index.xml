@@ -36,8 +36,9 @@ Here is a numbered list: 1. Hi 2. How 3. Are 4. You 5. Doing?</description>
       <description>Hello world from Hugo.
 This is some markdown.
 The usual markdown rules apply.
-Here is a heading
-Here is an italicized piece of text</description>
+Here is some bolded text
+Here is an italicized piece of text
+Here is an image from local:</description>
     </item>
     
   </channel>

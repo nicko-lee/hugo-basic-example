@@ -10,6 +10,12 @@ This is some markdown.
 
 The usual markdown rules apply.
 
-**Here is a heading**
+**Here is some bolded text**
 
 *Here is an italicized piece of text*
+
+Here is an image from local:
+
+![New York](/new-york.jpg) 
+
+
