@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hello Hugo</title>
+    <link>https://hugo-basic-hello-world.netlify.app/posts/</link>
+    <description>Recent content in Posts on Hello Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Sep 2020 14:01:21 +1000</lastBuildDate>
+    
+	<atom:link href="https://hugo-basic-hello-world.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://hugo-basic-hello-world.netlify.app/posts/second-post/</link>
+      <pubDate>Tue, 08 Sep 2020 14:01:21 +1000</pubDate>
+      
+      <guid>https://hugo-basic-hello-world.netlify.app/posts/second-post/</guid>
+      <description>This is the second post.
+Let&amp;rsquo;s see what else you can do with markdown.
+Here is a link to Google!
+Here is making some text bold.
+So actually that wasn&amp;rsquo;t a heading as referred to in my first post.
+Nice so the relative linking works as evidenced above.
+I am referring to this mastering markdown guide.
+Here is a numbered list: 1. Hi 2. How 3. Are 4. You 5. Doing?</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://hugo-basic-hello-world.netlify.app/posts/my-first-post/</link>
+      <pubDate>Tue, 08 Sep 2020 13:40:48 +1000</pubDate>
+      
+      <guid>https://hugo-basic-hello-world.netlify.app/posts/my-first-post/</guid>
+      <description>Hello world from Hugo.
+This is some markdown.
+The usual markdown rules apply.
+Here is a heading
+Here is an italicized piece of text</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = "https://hugo-basic-hello-world.netlify.app/"
+languageCode = "en-us"
+title = "Hello Hugo"
+theme = "ananke"
